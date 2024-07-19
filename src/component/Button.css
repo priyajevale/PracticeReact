@@ -1,0 +1,13 @@
+.btn{
+    border: none;
+    background:rgb(0,212,212);
+    border-radius: 10px;
+    background: transparent;
+    background: aquamarine;
+    font-size: 1.1rem;
+
+}
+.btn:hover{
+    background-color: blue;
+    cursor: pointer;
+}

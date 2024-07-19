@@ -1,0 +1,21 @@
+{   
+    "country" :[
+        {
+      "id": 1,
+      "cname": "India"
+    },
+    {
+      "id": 2,
+      "cname": "USA"
+    },
+    {
+      "id": 3,
+      "cname": "Nepal"
+    },
+    {
+      "id": 4,
+      "cname": "Bhutan"
+    }
+    ]
+}
+  
